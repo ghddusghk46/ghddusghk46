@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com.ghddusghk46" target="_blank"><img src="https://img.shields.io/badge/aaa-022342?style=flat-square&logo=191A1B&logoColor=asdfn12"/></a>
 🌱 I’m currently learning oss
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghddusghk46&show_icons=true&theme=radical)
