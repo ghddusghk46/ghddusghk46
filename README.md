@@ -12,11 +12,7 @@
 
 ## 소개
 
-안녕하세요. 작고 귀여운 인터랙션부터 데이터 기반 웹 프로젝트까지 직접 만들며 성장하고 있습니다.
 
-- 요즘은 JavaScript, React, Vite 기반 프로젝트를 만들고 있습니다.
-- 사용자가 바로 눌러보고 즐길 수 있는 웹 게임과 UI에 관심이 많습니다.
-- 작은 아이디어를 빠르게 구현하고, README와 문서까지 깔끔하게 정리하는 것을 좋아합니다.
 
 ## 기술 스택
 
@@ -32,6 +28,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=ffffff" />
